@@ -1,6 +1,6 @@
 [submodule "dslink"]
 	path = dslink
-	url = https://github.com/IOT-DSA/sdk-dslink-c.git
+	url = https://github.com/mwielpue/sdk-dslink-c.git
 
 [submodule "libiec61850"]
 	path = libiec61850

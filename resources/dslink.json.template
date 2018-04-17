@@ -1,0 +1,22 @@
+{
+  "name": "iec61850",
+  "version": "@PROJECT_VERSION",
+  "description": "iec61850",
+  "main": "bin/dslink-c-iec61850",
+  "configs": {
+    "log" : {
+      "type": "string",
+      "default": "debug"
+    },
+    "broker": {
+      "type": "url"
+    },
+    "name": {
+      "type": "string",
+      "default": "iec61850"
+    },
+    "token": {
+      "type": "string"
+    }
+  }
+}
